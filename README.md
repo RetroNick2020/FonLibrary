@@ -11,10 +11,6 @@ By RetroNick - Code Released Dec 17 - 2025
   - Both raster (bitmap) and vector (stroke) fonts
   - Scalable rendering for vector fonts
 
-Sample ROMAN.FON
-![](https://github.com/retronick2020/fonlibrary/wiki/images/fonlibrary.png)
-
-
   Usage:
     uses WinFont, PTCGraph;
 
@@ -36,3 +32,14 @@ Sample ROMAN.FON
     end;
 
 
+
+
+
+
+
+
+
+
+
+Sample ROMAN.FON
+![](https://github.com/retronick2020/fonlibrary/wiki/images/fonlibrary.png)
