@@ -1,6 +1,5 @@
- Windows FON Font Reader Library for Free Pascal & Turbo Pascal
-
-  By RetroNick - Code Released Dec 17 - 2025
+Windows FON Font Reader Library for Free Pascal & Turbo Pascal
+By RetroNick - Code Released Dec 17 - 2025
 
   Enhanced version with:
   - Text rotation (0°, 90°, 180°, 270°)
