@@ -1,3 +1,6 @@
+#ROMAN
+![](https://github.com/retronick2020/fonlibrary/wiki/images/fonlibrary.png)
+
 Windows FON Font Reader Library for Free Pascal & Turbo Pascal
 By RetroNick - Code Released Dec 17 - 2025
 
@@ -31,5 +34,4 @@ By RetroNick - Code Released Dec 17 - 2025
       Font.Free;
     end;
 
-#ROMAN
-![](https://github.com/retronick2020/fonlibrary/wiki/images/fonlibrary.png)
+
